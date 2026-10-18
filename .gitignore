@@ -4,3 +4,6 @@
 !.env.example
 .vercel/
 .vercel
+api/rooms.js.backup
+room-test.json
+session-*.json
